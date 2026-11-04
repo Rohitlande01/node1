@@ -4,7 +4,7 @@ const port = 3001
 
 app.get('/', (req, res) => {
   res.send('<h1> Hello codingwale Teacher !!!</h1>
-           <h2> 1.0.0 </h2>
+           <h2> 2.0.0 </h2>
            ')
 })
 
